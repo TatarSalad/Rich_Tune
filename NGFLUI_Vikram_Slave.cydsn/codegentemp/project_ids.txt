@@ -1,0 +1,8 @@
+C:\GEA_Cypress_proj\NGFL\Tuning_SW\_old\NGFLUI.cywrk.Archive01\NGFLUI\NGFLUI_Vikram.cydsn\NGFLUI_Vikram.cyprj|d3908591-5288-43d4-8677-f92671bf26b8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|95fca5a1-02c9-4fe9-96f8-12832a942774
+C:\Users\220036621\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|31fafc91-b44a-46d1-981d-02c1a685c835
+C:\Users\220036621\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|75150d9d-12e6-485f-baac-70cdd0f50be8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|156c34a5-6cf3-47e2-b201-2cebe74c8c62
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|5b611310-1759-4e53-ae76-19c587624f12
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|090c11ae-03c6-4cbc-995a-8d5a1d2e85df
+C:\GEA_Cypress_proj\NGFL\Tuning_SW\_old\NGFLUI.cywrk.Archive01\NGFLUI\NGFLUI_Vikram_Slave.cydsn\NGFLUI_Vikram_Slave.cyprj|0528ff20-1992-42e6-a32c-639e48b8ec51

@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="NGFLUI\NGFLUI_Vikram">
+<ExpandedNodeIds>
+<v>NGFLUI</v>
+<v>NGFLUI\NGFLUI_Vikram</v>
+<v>NGFLUI\NGFLUI_Vikram\TopDesign</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\Pins</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\Analog</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\Clocks</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\Interrupts</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\System</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\Directives</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\Flash Security</v>
+<v>NGFLUI\NGFLUI_Vikram\Header Files</v>
+<v>NGFLUI\NGFLUI_Vikram\Header Files\cyapicallbacks.h</v>
+<v>NGFLUI\NGFLUI_Vikram\Header Files\main.h</v>
+<v>NGFLUI\NGFLUI_Vikram\Source Files</v>
+<v>NGFLUI\NGFLUI_Vikram\Source Files\main.c</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\TopDesign</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\NGFLUI_Vikram_Slave.cydwr</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\NGFLUI_Vikram_Slave.cydwr\Pins</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\NGFLUI_Vikram_Slave.cydwr\Analog</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\NGFLUI_Vikram_Slave.cydwr\Clocks</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\NGFLUI_Vikram_Slave.cydwr\Interrupts</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\NGFLUI_Vikram_Slave.cydwr\System</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\NGFLUI_Vikram_Slave.cydwr\Directives</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\NGFLUI_Vikram_Slave.cydwr\Flash Security</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\Header Files</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\Header Files\cyapicallbacks.h</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\Source Files</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\Source Files\main.c</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\Generated_Source</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>NGFLUI</v>
+<v>NGFLUI\NGFLUI_Vikram</v>
+<v>NGFLUI\NGFLUI_Vikram\TopDesign</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\Pins</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\Analog</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\Clocks</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\Interrupts</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\System</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\Directives</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.cydwr\Flash Security</v>
+<v>NGFLUI\NGFLUI_Vikram\Header Files</v>
+<v>NGFLUI\NGFLUI_Vikram\Header Files\cyapicallbacks.h</v>
+<v>NGFLUI\NGFLUI_Vikram\Header Files\main.h</v>
+<v>NGFLUI\NGFLUI_Vikram\Source Files</v>
+<v>NGFLUI\NGFLUI_Vikram\Source Files\main.c</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\Buzzer_Freq</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\Buzzer_Vol</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\CapSense</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\CapSense_ISR</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\Clock_1</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\cy_boot</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\cy_dmac</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\cy_lfclk</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\Em_EEPROM_Dynamic</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\EZI2C</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\EZI2C_SCB_IRQ</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\EZI2C_SCBCLK</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\EZI2C_scl</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\EZI2C_sda</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\HB_LED</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\isr_MatrixTimer</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\isr_SPI_Done</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\isr_TimeOut</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\MatrixTimer</v>
+<v>NGFLUI\NGFLUI_Vikram\Generated_Source\PSoC4\PWM_Freq</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>NGFLUI</v>
+<v>NGFLUI\NGFLUI_Vikram</v>
+<v>NGFLUI\NGFLUI_Vikram\TopDesign</v>
+<v>NGFLUI\NGFLUI_Vikram\TopDesign\TopDesign.cysch</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\TopDesign</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>NGFLUI</v>
+<v>NGFLUI\NGFLUI_Vikram</v>
+<v>NGFLUI\NGFLUI_Vikram\TopDesign</v>
+<v>NGFLUI\NGFLUI_Vikram\TopDesign\TopDesign.cysch</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\TopDesign</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>NGFLUI</v>
+<v>NGFLUI\NGFLUI_Vikram</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\Buzzer_Freq.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\Buzzer_Freq_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\Buzzer_Vol.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\Buzzer_Vol_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Control.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Filter.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_INT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_ISR.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Processing.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_SelfTest.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Sensing.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSD_LL.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Structure.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Tuner.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\Cm0plusStart.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_BOOT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_EZI2C.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_EZI2C_BOOT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_EZI2C_INT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_SCB_IRQ.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_SCBCLK.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_scl.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_scl_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_sda.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_sda_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\HB_LED.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\HB_LED_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\isr_MatrixTimer.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\isr_SPI_Done.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\isr_TimeOut.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\MatrixTimer.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\MatrixTimer_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\PWM_Freq.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\PWM_Freq_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\PWM_Volume.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\PWM_Volume_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_BOOT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_mosi_m.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_mosi_m_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_OE.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_OE_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_SCBCLK.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_sclk_m.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_sclk_m_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_SPI.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_SPI_BOOT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_SPI_UART.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_ss0_m.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\SPI_ss0_m_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\TimeOut.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\TimeOut_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_rx.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_rx_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_SCBCLK.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_SPI_UART.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_SPI_UART_INT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_tx.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_tx_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_UART.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_UART_BOOT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\NGFLUI_Vikram.elf</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\NGFLUI_Vikram.hex</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\NGFLUI_Vikram.map</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.gpdsc</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram.rpt</v>
+<v>NGFLUI\NGFLUI_Vikram\NGFLUI_Vikram_timing.html</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Control.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Filter.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_INT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_ISR.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Processing.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_SelfTest.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Sensing.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSD_LL.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Structure.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Tuner.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\Cm0plusStart.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_BOOT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_EZI2C.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_EZI2C_BOOT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_EZI2C_INT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_SCB_IRQ.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_SCBCLK.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_scl.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_scl_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_sda.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_sda_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\HB_LED.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\HB_LED_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\Start_Button.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\Listing Files\Start_Button_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\NGFLUI_Vikram_Slave.elf</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\NGFLUI_Vikram_Slave.hex</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CortexM0p\ARM_GCC_541\Debug\NGFLUI_Vikram_Slave.map</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\NGFLUI_Vikram_Slave.gpdsc</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\NGFLUI_Vikram_Slave.rpt</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\NGFLUI_Vikram_Slave_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>NGFLUI</v>
+<v>NGFLUI\NGFLUI_Vikram</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\Buzzer_Freq.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\Buzzer_Freq_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\Buzzer_Vol.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\Buzzer_Vol_PM.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Control.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Filter.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_INT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_ISR.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Processing.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_SelfTest.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Sensing.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_SensingCSD_LL.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Structure.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_Tuner.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\Cm0plusStart.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_BOOT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_EZI2C.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_EZI2C_BOOT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_EZI2C_INT.lst</v>
+<v>NGFLUI\NGFLUI_Vikram\CortexM0p\ARM_GCC_541\Debug\Listing Files\EZI2C_PM.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>NGFLUI</v>
+<v>NGFLUI\NGFLUI_Vikram</v>
+<v>NGFLUI\NGFLUI_Vikram\PSoC 4 Architecture TRM</v>
+<v>NGFLUI\NGFLUI_Vikram\System Reference Guides</v>
+<v>NGFLUI\NGFLUI_Vikram\System Reference Guides\cy_boot_v5_70</v>
+<v>NGFLUI\NGFLUI_Vikram\System Reference Guides\cy_dmac_v1_10</v>
+<v>NGFLUI\NGFLUI_Vikram\System Reference Guides\cy_lfclk_v1_20</v>
+<v>NGFLUI\NGFLUI_Vikram\CapSense_P4_v5_20.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram\cy_clock_v2_20.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram\cy_isr_v1_70</v>
+<v>NGFLUI\NGFLUI_Vikram\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram\cy_pins_v2_20</v>
+<v>NGFLUI\NGFLUI_Vikram\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram\SCB_P4_v4_0</v>
+<v>NGFLUI\NGFLUI_Vikram\SCB_P4_v4_0\SCB_P4_v4_0.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram\TCPWM_P4_v2_10</v>
+<v>NGFLUI\NGFLUI_Vikram\TCPWM_P4_v2_10\TCPWM_P4_v2_10.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\PSoC 4 Architecture TRM</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\PSoC 4000S Family Datasheet</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\System Reference Guides</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\System Reference Guides\cy_boot_v5_80</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\System Reference Guides\cy_lfclk_v1_20</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CapSense_P4_v6_0.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\cy_pins_v2_20</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\SCB_P4_v4_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>NGFLUI</v>
+<v>NGFLUI\NGFLUI_Vikram</v>
+<v>NGFLUI\NGFLUI_Vikram\PSoC 4 Architecture TRM</v>
+<v>NGFLUI\NGFLUI_Vikram\System Reference Guides</v>
+<v>NGFLUI\NGFLUI_Vikram\System Reference Guides\cy_boot_v5_70</v>
+<v>NGFLUI\NGFLUI_Vikram\System Reference Guides\cy_dmac_v1_10</v>
+<v>NGFLUI\NGFLUI_Vikram\System Reference Guides\cy_lfclk_v1_20</v>
+<v>NGFLUI\NGFLUI_Vikram\CapSense_P4_v5_20.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram\cy_clock_v2_20.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram\cy_isr_v1_70</v>
+<v>NGFLUI\NGFLUI_Vikram\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram\cy_pins_v2_20</v>
+<v>NGFLUI\NGFLUI_Vikram\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram\SCB_P4_v4_0</v>
+<v>NGFLUI\NGFLUI_Vikram\SCB_P4_v4_0\SCB_P4_v4_0.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram\TCPWM_P4_v2_10</v>
+<v>NGFLUI\NGFLUI_Vikram\TCPWM_P4_v2_10\TCPWM_P4_v2_10.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\PSoC 4 Architecture TRM</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\PSoC 4000S Family Datasheet</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\System Reference Guides</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\System Reference Guides\cy_boot_v5_80</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\System Reference Guides\cy_lfclk_v1_20</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\CapSense_P4_v6_0.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\cy_pins_v2_20</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>NGFLUI\NGFLUI_Vikram_Slave\SCB_P4_v4_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="6c335137-fa19-46ce-bc2d-2fbeb6d5f2a2">
+<CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2 type_name="CyDesigner.Common.ProjMgmt.GUI.CyDependenciesCustomData" version="1">
+<dictName v=".\NGFLUI_Vikram.cydsn\NGFLUI_Vikram.cyprj">
+<listName />
+</dictName>
+<dictName v=".\NGFLUI_Vikram_Slave.cydsn\NGFLUI_Vikram_Slave.cyprj">
+<listName />
+</dictName>
+</CyGuid_70084457-cd6a-4593-9ed0-7f6eeb432dc2>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\NGFLUI_Vikram.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\NGFLUI_Vikram.cydsn\main.c" />
+<name v=".\NGFLUI_Vikram.cydsn\NGFLUI_Vikram.cydwr" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Vertical"><TabbedMdiContainer Size="1028, 575" SelectedTabbedMdiWindow="dc4499fd-f91c-416e-8adb-f8a68f75f3b8"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="cb8b1cfb-e11a-4949-90ca-b15fbe1e8970" /><DocumentWindow Key="C:\Users\djjw\Documents\Customers\GE\Laundry - Richard Woodham Tyler Barton Joshua Whittle\NGFL_UI_PP1_RPP\NGFLUI\NGFLUI_Vikram.cydsn\TopDesign\TopDesign.cysch" Guid="d44f966a-d89a-4755-a23f-1787e79d7378" /><DocumentWindow Key="C:\Users\djjw\Documents\Customers\GE\Laundry - Richard Woodham Tyler Barton Joshua Whittle\NGFL_UI_PP1_RPP\NGFLUI\NGFLUI_Vikram.cydsn\main.c" Guid="dc4499fd-f91c-416e-8adb-f8a68f75f3b8" /><DocumentWindow Key="C:\Users\djjw\Documents\Customers\GE\Laundry - Richard Woodham Tyler Barton Joshua Whittle\NGFL_UI_PP1_RPP\NGFLUI\NGFLUI_Vikram.cydsn\NGFLUI_Vikram.cydwr" Guid="aa8d23a4-b455-4586-a9f1-5a20f3d77b26" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

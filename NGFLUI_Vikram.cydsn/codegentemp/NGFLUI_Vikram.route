@@ -1,0 +1,87 @@
+net ClockBlock_HFClk
+	term   ":m0s8clockblockcell.hfclk"
+	switch ":m0s8clockblockcell.hfclk==>:interrupt_16.clock"
+	term   ":interrupt_16.clock"
+	switch ":m0s8clockblockcell.hfclk==>:interrupt_7.clock"
+	term   ":interrupt_7.clock"
+	switch ":m0s8clockblockcell.hfclk==>:interrupt_18.clock"
+	term   ":interrupt_18.clock"
+	switch ":m0s8clockblockcell.hfclk==>:interrupt_17.clock"
+	term   ":interrupt_17.clock"
+	switch ":m0s8clockblockcell.hfclk==>:interrupt_9.clock"
+	term   ":interrupt_9.clock"
+end ClockBlock_HFClk
+net Net_119
+	term   ":m0s8tcpwmcell_3.line"
+	switch ":m0s8tcpwmcell_3.line==>:ioport3:hsiom_out6.fixed_ACT_0"
+	switch ":ioport3:hsiom_out6.hsiom6_out==>:ioport3:smartio_mux_in6.direct_out"
+	switch ":ioport3:smartio_mux_in6.smartio_mux_in==>:ioport3:pin6.pin_input"
+	term   ":ioport3:pin6.pin_input"
+end Net_119
+net Net_159
+	term   ":m0s8tcpwmcell_0.interrupt"
+	switch ":m0s8tcpwmcell_0.interrupt==>:interrupt_idmux_17.in_0"
+	switch ":interrupt_idmux_17.interrupt_idmux_17__out==>:interrupt_17.interrupt"
+	term   ":interrupt_17.interrupt"
+end Net_159
+net Net_163
+	term   ":m0s8scbcell_2.interrupt"
+	switch ":m0s8scbcell_2.interrupt==>:interrupt_idmux_9.in_0"
+	switch ":interrupt_idmux_9.interrupt_idmux_9__out==>:interrupt_9.interrupt"
+	term   ":interrupt_9.interrupt"
+end Net_163
+net Net_20
+	term   ":ioport4:pin0.fb"
+	switch ":ioport4:pin0.fb==>:ioport4:smartio_mux_out0.direct_in"
+	switch ":ioport4:smartio_mux_out0.smartio_mux_out==>:ioport4:hsiom_in0.hsiom0_in"
+	switch ":ioport4:hsiom_in0.fixed_DPSLP_2==>:m0s8scbcell_0__i2c_scl__hsiom_permute.ioport4__fixed_out_p0_DPSLP_2"
+	switch ":m0s8scbcell_0__i2c_scl__hsiom_permute.m0s8scbcell_0__i2c_scl==>:m0s8scbcell_0.i2c_scl"
+	term   ":m0s8scbcell_0.i2c_scl"
+end Net_20
+net Net_21
+	term   ":ioport4:pin1.fb"
+	switch ":ioport4:pin1.fb==>:ioport4:smartio_mux_out1.direct_in"
+	switch ":ioport4:smartio_mux_out1.smartio_mux_out==>:ioport4:hsiom_in1.hsiom1_in"
+	switch ":ioport4:hsiom_in1.fixed_DPSLP_2==>:m0s8scbcell_0__i2c_sda__hsiom_permute.ioport4__fixed_out_p1_DPSLP_2"
+	switch ":m0s8scbcell_0__i2c_sda__hsiom_permute.m0s8scbcell_0__i2c_sda==>:m0s8scbcell_0.i2c_sda"
+	term   ":m0s8scbcell_0.i2c_sda"
+end Net_21
+net Net_3
+	term   ":m0s8scbcell_0.interrupt"
+	switch ":m0s8scbcell_0.interrupt==>:interrupt_idmux_7.in_0"
+	switch ":interrupt_idmux_7.interrupt_idmux_7__out==>:interrupt_7.interrupt"
+	term   ":interrupt_7.interrupt"
+end Net_3
+net Net_72
+	term   ":m0s8tcpwmcell_2.line"
+	switch ":m0s8tcpwmcell_2.line==>:ioport3:hsiom_out4.fixed_ACT_0"
+	switch ":ioport3:hsiom_out4.hsiom4_out==>:ioport3:smartio_mux_in4.direct_out"
+	switch ":ioport3:smartio_mux_in4.smartio_mux_in==>:ioport3:pin4.pin_input"
+	term   ":ioport3:pin4.pin_input"
+end Net_72
+net Net_90
+	term   ":m0s8tcpwmcell_1.interrupt"
+	switch ":m0s8tcpwmcell_1.interrupt==>:interrupt_idmux_18.in_0"
+	switch ":interrupt_idmux_18.interrupt_idmux_18__out==>:interrupt_18.interrupt"
+	term   ":interrupt_18.interrupt"
+end Net_90
+net \CapSense:Net_120\
+	term   ":p4csdcell.irq"
+	switch ":p4csdcell.irq==>:interrupt_idmux_16.in_0"
+	switch ":interrupt_idmux_16.interrupt_idmux_16__out==>:interrupt_16.interrupt"
+	term   ":interrupt_16.interrupt"
+end \CapSense:Net_120\
+net \SPI:mosi_m_wire\
+	term   ":m0s8scbcell_2.mosi_m"
+	switch ":m0s8scbcell_2.mosi_m==>:ioport5:hsiom_out0.fixed_DPSLP_3"
+	switch ":ioport5:hsiom_out0.hsiom0_out==>:ioport5:smartio_mux_in0.direct_out"
+	switch ":ioport5:smartio_mux_in0.smartio_mux_in==>:ioport5:pin0.pin_input"
+	term   ":ioport5:pin0.pin_input"
+end \SPI:mosi_m_wire\
+net \SPI:sclk_m_wire\
+	term   ":m0s8scbcell_2.sclk_m"
+	switch ":m0s8scbcell_2.sclk_m==>:ioport5:hsiom_out2.fixed_DPSLP_3"
+	switch ":ioport5:hsiom_out2.hsiom2_out==>:ioport5:smartio_mux_in2.direct_out"
+	switch ":ioport5:smartio_mux_in2.smartio_mux_in==>:ioport5:pin2.pin_input"
+	term   ":ioport5:pin2.pin_input"
+end \SPI:sclk_m_wire\
